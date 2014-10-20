@@ -29,4 +29,4 @@ Notes:
 
 
 Walkthrough of all user stories:
-/Users/alyons/Dropbox (Facebook)/Projects/iOS Bootcamp/Week 1/Dropbox/Dropbox/Dropbox walkthru.gif
+![ScreenShot](Dropbox-walkthru.gif)
