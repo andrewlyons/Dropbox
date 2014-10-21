@@ -22,8 +22,8 @@ User can log out from the Settings screen.
 Optional: Add a detail view for one of the files (a photo in my case) and implement favoriting the file.
 Optional: You should be able to swipe through the welcome screens instead of just tapping them.
 
-Option not done (yet?)
-Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
+Option not done:
+Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
 
 
 Walkthrough of all user stories:
